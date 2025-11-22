@@ -11,7 +11,7 @@ I'm Haider Ali, empowering entrepreneurs and growing businesses to reach their f
 - Built a marketing automation suite for a subscription service, resulting in a 60% reduction in cart abandonment
 - Designed and implemented an AI chat-agent for a SaaS provider, increasing qualified demo requests by 80%
 
-*If you're prepared to turn your online presence into a potent tool for engagement, sales, and sustained success, let's get in touch. I'm always up for taking on new challenges and assisting driven teams in producing outstanding outcomes.*
+
 
 # 💻 Tech Stack:
 
