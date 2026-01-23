@@ -9,7 +9,7 @@ I'm Haider Ali, empowering entrepreneurs and growing businesses to reach their f
 **A few HIGHLIGHTS:**
 - Spearheaded a site redesign that boosted online sales by 45% within three months
 - Built a marketing automation suite for a subscription service, resulting in a 60% reduction in cart abandonment
-- Designed and implemented an AI chat-agent for a SaaS provider, increasing qualified demo requests by 80%
+
 
 
 
